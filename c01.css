@@ -1,0 +1,11 @@
+
+h1,p{
+	font-size: 30px;
+	color: red;
+	font-weight: bold;
+}
+
+a:hover{ /*伪类选择器*/
+	color: blue;
+	font-size: 20px;
+}
